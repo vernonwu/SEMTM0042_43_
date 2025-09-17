@@ -270,6 +270,20 @@
          d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path3255-0" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2689-43"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:#008000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2687-66" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -278,9 +292,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.6"
-     inkscape:cx="412.82397"
-     inkscape:cy="669.2969"
+     inkscape:zoom="2.8"
+     inkscape:cx="335.48367"
+     inkscape:cy="639.03278"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -324,7 +338,9 @@
        height="8.0180855"
        x="93.343887"
        y="175.12836"
-       ry="0.48767734" />
+       ry="0.48767734"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <rect
        style="opacity:1;fill:#6f6f91;stroke:#6f6f91;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="rect3672"
@@ -332,11 +348,15 @@
        height="8.0180855"
        x="127.88105"
        y="175.24648"
-       ry="0.48767734" />
+       ry="0.48767734"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <path
        style="fill:none;stroke:#008000;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2128-5);stroke-miterlimit:4;stroke-dasharray:none"
        d="m 111.54326,179.33422 h 22.5536"
-       id="path2124-4" />
+       id="path2124-4"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <path
        style="opacity:1;fill:none;stroke:#cccccc;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="path2188-8"
@@ -349,7 +369,9 @@
        sodipodi:end="0.13585027"
        sodipodi:arc-type="arc"
        d="m 128.66327,181.71724 a 17.258486,17.258486 0 0 1 -19.49948,14.64879 17.258486,17.258486 0 0 1 -14.678039,-19.47746 17.258486,17.258486 0 0 1 19.455409,-14.70727 17.258486,17.258486 0 0 1 14.73645,19.43332"
-       sodipodi:open="true" />
+       sodipodi:open="true"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <image
        width="39.251366"
        height="17.008924"
@@ -33467,26 +33489,30 @@ RK5CYII=
     <path
        style="fill:none;stroke:#000000;stroke-width:0.285186px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2128)"
        d="m 111.54326,179.33422 h 16.61248"
-       id="path2124" />
+       id="path2124"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="126.48032"
-       y="153.83928"
-       id="text2186"><tspan
+       x="130.82704"
+       y="157.80803"
+       id="text2186"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178"><tspan
          sodipodi:role="line"
-         x="126.48032"
-         y="153.83928"
+         x="130.82704"
+         y="157.80803"
          style="font-size:2.82222px;fill:#008000;stroke:none;stroke-width:0.264583"
          id="tspan2952">rotation too small, </tspan><tspan
          sodipodi:role="line"
-         x="126.48032"
-         y="157.36705"
+         x="130.82704"
+         y="161.3358"
          style="font-size:2.82222px;fill:#008000;stroke:none;stroke-width:0.264583"
          id="tspan2958">wheel separation too</tspan><tspan
          sodipodi:role="line"
-         x="126.48032"
-         y="160.89484"
+         x="130.82704"
+         y="164.86359"
          style="font-size:2.82222px;fill:#008000;stroke:none;stroke-width:0.264583"
          id="tspan2962">large</tspan></text>
     <path
@@ -33501,7 +33527,9 @@ RK5CYII=
        sodipodi:end="6.27487"
        sodipodi:arc-type="arc"
        d="m 111.58615,161.93594 a 17.258486,17.258486 0 0 1 17.23716,17.11496"
-       sodipodi:open="true" />
+       sodipodi:open="true"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <path
        style="opacity:1;fill:none;stroke:#000000;stroke-width:0.264583;stroke-miterlimit:4;stroke-dasharray:2.11666, 1.05832999999999999;stroke-dashoffset:0;marker-start:url(#marker2452)"
        id="path2188-0"
@@ -33515,14 +33543,18 @@ RK5CYII=
        sodipodi:arc-type="arc"
        d="m -111.54326,-196.44919 a 17.258486,17.258486 0 0 1 17.237161,17.11496"
        sodipodi:open="true"
-       transform="scale(-1)" />
+       transform="scale(-1)"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <ellipse
        style="opacity:1;fill:#000000;stroke:#000000;stroke-width:0.396777;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
        id="path2358"
        cx="111.5657"
        cy="179.22838"
        rx="0.80161148"
-       ry="0.8016113" />
+       ry="0.8016113"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <path
        style="opacity:1;fill:none;stroke:#008000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:1.5, 0.50000000000000000;stroke-dashoffset:0;marker-start:url(#marker2689)"
        id="path2685"
@@ -33535,7 +33567,9 @@ RK5CYII=
        sodipodi:end="6.2829069"
        sodipodi:arc-type="arc"
        d="m 121.36878,158.77269 a 22.788548,22.788548 0 0 1 12.96302,20.55519"
-       sodipodi:open="true" />
+       sodipodi:open="true"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <path
        style="opacity:1;fill:none;stroke:#008000;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:1.5, 0.499999;stroke-dashoffset:0;marker-start:url(#marker2689-4)"
        id="path2685-1"
@@ -33549,15 +33583,21 @@ RK5CYII=
        sodipodi:arc-type="arc"
        d="m -102.4745,-199.88942 a 22.788548,22.788548 0 0 1 12.963013,20.55519"
        sodipodi:open="true"
-       transform="scale(-1)" />
+       transform="scale(-1)"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <path
        style="fill:none;stroke:#008000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 111.54326,179.33422 12.14945,-27.2933"
-       id="path2950" />
+       id="path2950"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <path
        style="fill:none;stroke:#3737c8;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2128-5-0)"
        d="m 111.54326,179.33422 h 11.82662"
-       id="path2124-4-7" />
+       id="path2124-4-7"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <path
        style="opacity:1;fill:none;stroke:#3737c8;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-end:url(#marker3257)"
        id="path3147"
@@ -33571,13 +33611,17 @@ RK5CYII=
        sodipodi:open="true"
        sodipodi:arc-type="arc"
        d="m 123.55947,-179.23863 a 12.252461,12.252461 0 0 1 -5.74326,10.38041 12.252461,12.252461 0 0 1 -11.84554,0.64893"
-       transform="scale(1,-1)" />
+       transform="scale(1,-1)"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#3737c8;fill-opacity:1;stroke:none;stroke-width:0.264583;"
        x="79.096214"
        y="154.39648"
-       id="text2186-1"><tspan
+       id="text2186-1"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178"><tspan
          sodipodi:role="line"
          x="79.096214"
          y="154.39648"
@@ -33596,7 +33640,9 @@ RK5CYII=
     <path
        style="fill:none;stroke:#3737c8;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="M 111.54326,179.33422 100.58891,159.08073"
-       id="path3403" />
+       id="path3403"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
     <path
        style="opacity:1;fill:none;stroke:#3737c8;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:1.5, 1.5;stroke-dashoffset:0;marker-end:url(#marker3257-2)"
        id="path3147-0"
@@ -33610,6 +33656,8 @@ RK5CYII=
        sodipodi:open="true"
        sodipodi:arc-type="arc"
        d="m -99.541858,179.5714 a 12.252461,12.252461 0 0 1 -5.743252,10.38041 12.252461,12.252461 0 0 1 -11.84555,0.64892"
-       transform="scale(-1,1)" />
+       transform="scale(-1,1)"
+       inkscape:export-xdpi="120.03178"
+       inkscape:export-ydpi="120.03178" />
   </g>
 </svg>
