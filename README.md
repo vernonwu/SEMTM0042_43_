@@ -1,5 +1,6 @@
-# EMATM0054/53 Robotic Systems
-Teaching materials for unit EMATM0054/53
+# SEMTM0042/43 Robotic Science & Systems
+
+
 
 # Navigating the Labsheets
 The Labsheets provide some icons to help reinforce the scientific skills we are practicing.  These icons should also help you to navigate the labsheets quickly.  
