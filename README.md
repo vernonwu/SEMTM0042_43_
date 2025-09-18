@@ -38,7 +38,7 @@ The below Labsheets make extensive use of some incomplete template code provided
 
 You can print your own copy of the coursework map.  The files which is located in the folder `Map` above.  Alternatively, visit <a href="https://github.com/paulodowd/SEMTM0042_43/tree/main/Map">this link</a>.
 
-<img src="https://raw.githubusercontent.com/paulodowd/SEMTM0042_43/main/Map/map.svg" align="center" width="50%">
+<img src="https://raw.githubusercontent.com/paulodowd/SEMTM0042_43/refs/heads/main/Map/Map.svg" align="center" width="50%">
 
 # Trouble Shooting (FAQ)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/SEMTM0042_43/blob/main/Labsheets/Core/TroubleShooting_FAQ.ipynb) **TroubleShooting/FAQ**:  Help for common problems, like **"my robot won't connect"** 
