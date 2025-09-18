@@ -26,8 +26,8 @@
      showgrid="false"
      showguides="true"
      inkscape:zoom="0.76167929"
-     inkscape:cx="526.4683"
-     inkscape:cy="702.39536"
+     inkscape:cx="798.23622"
+     inkscape:cy="732.59179"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -150,7 +150,10 @@
        width="41.750267"
        height="2.7476377"
        x="30.535391"
-       y="120.65654" />
+       y="120.65654"
+       inkscape:export-filename="millis_schedule.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160" />
     <path
        style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.263165"
        d="m 72.28566,117.59651 v 8.8673 l 6.580727,-4.43364 z"
@@ -205,7 +208,7 @@
          x="87.814247"
          y="140.91301"
          id="tspan623-6-3"><tspan
-   style="font-weight:bold"
+   style="font-weight:bold;fill:#0000ff"
    id="tspan4730">activity_ts</tspan> is initialised</tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
@@ -216,7 +219,9 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
          x="87.814247"
          y="149.92883"
-         id="tspan1110">the count  2100</tspan></text>
+         id="tspan1110">the count, e.g. <tspan
+   style="fill:#0000ff"
+   id="tspan8588"> 2100</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
@@ -228,13 +233,15 @@
          x="197.77988"
          y="260.91193"
          id="tspan1108-8"><tspan
-   style="font-weight:bold"
+   style="font-weight:bold;fill:#0000ff"
    id="tspan4730-4">activity_ts</tspan> now receives </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
          x="197.77988"
          y="265.41983"
-         id="tspan1110-9">the count  2605, when </tspan><tspan
+         id="tspan1110-9">the count  <tspan
+   style="fill:#0000ff"
+   id="tspan8582">2605</tspan>, when </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
          x="197.77988"
@@ -256,7 +263,7 @@
          x="170.76447"
          y="186.94887"
          id="tspan2733"><tspan
-   style="font-weight:bold"
+   style="font-weight:bold;fill:#008000"
    id="tspan3467">elapsed_time</tspan> is calculated using </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
@@ -264,12 +271,18 @@
          y="191.45679"
          id="tspan5528">the saved value in <tspan
    style="font-weight:bold"
-   id="tspan3463">activity_ts:</tspan></tspan><tspan
+   id="tspan3463"><tspan
+   style="fill:#0000ff"
+   id="tspan8466">activity_ts</tspan>:</tspan></tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
          x="170.76447"
          y="195.96469"
-         id="tspan3469">2300 - 2100 = 200</tspan><tspan
+         id="tspan3469">2300 - <tspan
+   style="fill:#0000ff"
+   id="tspan8570">2100</tspan> = <tspan
+   style="fill:#008000"
+   id="tspan8464">200</tspan></tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
          x="170.76447"
@@ -298,7 +311,7 @@
          x="197.67393"
          y="234.7148"
          id="tspan2733-6"><tspan
-   style="font-weight:bold"
+   style="font-weight:bold;fill:#008000"
    id="tspan3467-5">elapsed_time</tspan> is calculated using </tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
@@ -306,12 +319,18 @@
          y="239.22272"
          id="tspan5528-3">the saved value in <tspan
    style="font-weight:bold"
-   id="tspan3463-8">activity_ts:</tspan></tspan><tspan
+   id="tspan3463-8"><tspan
+   style="fill:#0000ff"
+   id="tspan8578">activity_ts</tspan>:</tspan></tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
          x="197.67393"
          y="243.73062"
-         id="tspan3469-2">2605 - 2100 = 505</tspan><tspan
+         id="tspan3469-2">2605 - <tspan
+   style="fill:#0000ff"
+   id="tspan8576">2100 </tspan>= <tspan
+   style="fill:#008000"
+   id="tspan8574">505</tspan></tspan><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
          x="197.67393"
@@ -329,12 +348,12 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
          x="197.67393"
-         y="257.25433"
+         y="257.25436"
          id="tspan5864" /><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
          x="197.67393"
-         y="261.76224"
+         y="261.76227"
          id="tspan5866" /></text>
     <text
        xml:space="preserve"
@@ -520,7 +539,9 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
          x="243.48715"
          y="305.3884"
-         id="tspan6659">elapsed_time <tspan
+         id="tspan6659"><tspan
+   style="fill:#008000"
+   id="tspan8584">elapsed_time</tspan> <tspan
    style="font-weight:normal"
    id="tspan6665">and checking</tspan></tspan><tspan
          sodipodi:role="line"
@@ -618,7 +639,10 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0"
        x="34.437111"
        y="305.61743"
-       id="text6944-4"><tspan
+       id="text6944-4"
+       inkscape:export-filename="millis_schedule.png"
+       inkscape:export-xdpi="160"
+       inkscape:export-ydpi="160"><tspan
          sodipodi:role="line"
          id="tspan6942-4"
          style="fill:#ffffff;stroke:none;stroke-width:0.5"
