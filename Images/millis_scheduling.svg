@@ -1,0 +1,628 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="millis_scheduling.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.76167929"
+     inkscape:cx="526.4683"
+     inkscape:cy="702.39536"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="38.731578,188.79474"
+       orientation="0,-1"
+       id="guide499"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="38.731577,188.79474"
+       orientation="1,0"
+       id="guide501"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="55.578946,188.79474"
+       orientation="1,0"
+       id="guide503"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="47.155263,190.68638"
+       orientation="1,0"
+       id="guide505"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="47.155263,201.29775"
+       orientation="0,-1"
+       id="guide507"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="43.716103,167.7136"
+       orientation="0,-1"
+       id="guide891"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="29.35263,159.09475"
+       orientation="1,0"
+       id="guide986"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="43.933866,139.6855"
+       orientation="0,-1"
+       id="guide1172"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="30.770935,157.96992"
+       orientation="1,0"
+       id="guide6956"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-8-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4-1" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.43394"
+       id="rect288"
+       width="41.750267"
+       height="2.7476377"
+       x="30.535391"
+       y="120.65654" />
+    <path
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.263165"
+       d="m 72.28566,117.59651 v 8.8673 l 6.580727,-4.43364 z"
+       id="path565" />
+    <circle
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       id="path234"
+       cx="29.352631"
+       cy="122.03036"
+       r="2.4315789" />
+    <rect
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.469663"
+       id="rect288-0"
+       width="49.551388"
+       height="2.7119148"
+       x="30.803253"
+       y="157.19446" />
+    <path
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.263165"
+       d="m 79.904457,154.11666 v 8.8673 l 6.580727,-4.43364 z"
+       id="path565-9" />
+    <circle
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       id="path234-0"
+       cx="29.320395"
+       cy="158.55042"
+       r="2.4315789" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="29.348324"
+       y="108.30924"
+       id="text621"><tspan
+         sodipodi:role="line"
+         id="tspan619"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="29.348324"
+         y="108.30924">robot is powered-on</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="29.348324"
+         y="112.81715"
+         id="tspan623">millis() count is 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="87.814247"
+       y="140.91301"
+       id="text621-0-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="87.814247"
+         y="140.91301"
+         id="tspan623-6-3"><tspan
+   style="font-weight:bold"
+   id="tspan4730">activity_ts</tspan> is initialised</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="87.814247"
+         y="145.42091"
+         id="tspan1108">in setup(), it receives </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="87.814247"
+         y="149.92883"
+         id="tspan1110">the count  2100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="197.77988"
+       y="260.91193"
+       id="text621-0-9-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="197.77988"
+         y="260.91193"
+         id="tspan1108-8"><tspan
+   style="font-weight:bold"
+   id="tspan4730-4">activity_ts</tspan> now receives </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="197.77988"
+         y="265.41983"
+         id="tspan1110-9">the count  2605, when </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="197.77988"
+         y="269.92773"
+         id="tspan5914">this task &quot;last operated&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="170.76447"
+       y="182.44096"
+       id="text621-0-9-2"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="170.76447"
+         y="182.44096"
+         id="tspan1110-6">At 2300 milliseconds,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="170.76447"
+         y="186.94887"
+         id="tspan2733"><tspan
+   style="font-weight:bold"
+   id="tspan3467">elapsed_time</tspan> is calculated using </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="170.76447"
+         y="191.45679"
+         id="tspan5528">the saved value in <tspan
+   style="font-weight:bold"
+   id="tspan3463">activity_ts:</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="170.76447"
+         y="195.96469"
+         id="tspan3469">2300 - 2100 = 200</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="170.76447"
+         y="200.47261"
+         id="tspan5531">if( elapsed_time &gt; activity_ms ) is <tspan
+   style="font-weight:bold"
+   id="tspan5533">NOT TRUE</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="170.76447"
+         y="204.98051"
+         id="tspan5641">The code in this statement does not run.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="197.67393"
+       y="230.20689"
+       id="text621-0-9-2-5"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="197.67393"
+         y="230.20689"
+         id="tspan1110-6-5">At 2605 milliseconds,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="197.67393"
+         y="234.7148"
+         id="tspan2733-6"><tspan
+   style="font-weight:bold"
+   id="tspan3467-5">elapsed_time</tspan> is calculated using </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="197.67393"
+         y="239.22272"
+         id="tspan5528-3">the saved value in <tspan
+   style="font-weight:bold"
+   id="tspan3463-8">activity_ts:</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="197.67393"
+         y="243.73062"
+         id="tspan3469-2">2605 - 2100 = 505</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="197.67393"
+         y="248.23854"
+         id="tspan5531-7">if( elapsed_time &gt; activity_ms ) is <tspan
+   style="font-weight:bold"
+   id="tspan5533-9">TRUE</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="197.67393"
+         y="252.74644"
+         id="tspan5641-3">The code in this statement <tspan
+   style="font-weight:bold"
+   id="tspan5862">is run</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="197.67393"
+         y="257.25433"
+         id="tspan5864" /><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="197.67393"
+         y="261.76224"
+         id="tspan5866" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="110.68852"
+       y="190.53867"
+       id="text621-0-9-26"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#808080;stroke:none;stroke-width:0.5"
+         x="110.68852"
+         y="190.53867"
+         id="tspan1110-61">200ms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="78.847046"
+       y="108.33923"
+       id="text621-9"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="78.847046"
+         y="108.33923"
+         id="tspan623-0">2 seconds later,</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="78.847046"
+         y="112.84714"
+         id="tspan867">millis() count is 2000</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999"
+       d="m 29.352631,122.03017 v -7.81579"
+       id="path831" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999"
+       d="m 29.320395,158.5503 v -7.81579"
+       id="path831-8" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.484605"
+       d="M 86.720678,157.77724 V 150.4353"
+       id="path831-8-4" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.484605"
+       d="m 135.47413,194.24236 v -7.34194"
+       id="path831-8-4-5" />
+    <rect
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.638817"
+       id="rect288-0-3"
+       width="97.770088"
+       height="2.5427611"
+       x="30.887831"
+       y="193.98097" />
+    <path
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.263165"
+       d="m 128.65791,190.8187 v 8.8673 l 6.58073,-4.43364 z"
+       id="path565-9-0" />
+    <circle
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       id="path234-0-6"
+       cx="29.320395"
+       cy="195.25235"
+       r="2.4315789" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999"
+       d="m 29.320395,195.25234 v -7.81579"
+       id="path831-8-45" />
+    <path
+       style="fill:#000000;stroke:#999999;stroke-width:0.484605;stroke-dasharray:1.93842006,0.48460502;stroke-dashoffset:0"
+       d="m 86.720678,194.47928 v -7.34194"
+       id="path831-8-4-1" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999"
+       d="M 79.101881,121.25709 V 113.4413"
+       id="path831-4" />
+    <path
+       style="fill:#000000;stroke:#999999;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#TriangleStart);marker-end:url(#TriangleStart)"
+       d="m 89.239097,187.13734 43.890293,-0.23692"
+       id="path4251"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="126.53143"
+       y="241.40776"
+       id="text621-0-9-26-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#808080;stroke:none;stroke-width:0.5"
+         x="126.53143"
+         y="241.40776"
+         id="tspan1110-61-9">505ms</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="86.955231"
+       y="183.67598"
+       id="text621-0-9-26-0-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#808080;stroke:none;stroke-width:0.5"
+         x="86.955231"
+         y="183.67598"
+         id="tspan1110-61-9-4">activity_ts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="162.82181"
+       y="260.88934"
+       id="text621-0-9-26-0-1-0"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#808080;stroke:none;stroke-width:0.5"
+         x="162.82181"
+         y="260.88934"
+         id="tspan1110-61-9-4-7">activity_ts</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="190.26181"
+       y="293.94138"
+       id="text621-0-9-26-0-1-0-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#808080;stroke:none;stroke-width:0.5"
+         x="190.26181"
+         y="293.94138"
+         id="tspan1110-61-9-4-7-65">?</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.484605"
+       d="m 162.82955,243.96416 v -7.34194"
+       id="path831-8-4-5-7" />
+    <rect
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.712088"
+       id="rect288-0-3-4"
+       width="125.08887"
+       height="2.4694901"
+       x="30.924459"
+       y="243.73949" />
+    <path
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.263165"
+       d="m 156.01333,240.5405 v 8.8673 l 6.58073,-4.43364 z"
+       id="path565-9-0-7" />
+    <circle
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       id="path234-0-6-5"
+       cx="29.320387"
+       cy="244.97423"
+       r="2.4315789" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999"
+       d="m 29.320389,244.97413 v -7.81579"
+       id="path831-8-45-6" />
+    <path
+       style="fill:#000000;stroke:#999999;stroke-width:0.484605;stroke-dasharray:1.93842, 0.484605;stroke-dashoffset:0"
+       d="m 86.720672,244.20107 v -7.34194"
+       id="path831-8-4-1-0" />
+    <path
+       style="fill:#000000;stroke:#999999;stroke-width:0.484605;stroke-dasharray:1.93842, 0.484605;stroke-dashoffset:0"
+       d="m 162.83897,269.81577 v -7.34194"
+       id="path831-8-4-1-0-99" />
+    <path
+       style="fill:#000000;stroke:#999999;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#TriangleStart-8);marker-end:url(#TriangleStart-8)"
+       d="m 89.239092,236.85913 71.571378,-0.23691"
+       id="path4251-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#000000;stroke:#999999;stroke-width:0.499514;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#TriangleStart-8-4);marker-end:url(#TriangleStart-8-4)"
+       d="m 166.08272,295.68767 h 46.93236"
+       id="path4251-7-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.495188;stroke-dasharray:none;stroke-dashoffset:0;marker-end:url(#TriangleStart-8)"
+       d="m 86.724438,244.19239 c 5.347841,26.37296 74.359192,22.26228 74.359192,22.26228"
+       id="path6053"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="243.48715"
+       y="300.88049"
+       id="text621-0-9-2-5-8"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="243.48715"
+         y="300.88049"
+         id="tspan5866-8">The whole process now repeats, calculating</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="243.48715"
+         y="305.3884"
+         id="tspan6659">elapsed_time <tspan
+   style="font-weight:normal"
+   id="tspan6665">and checking</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="243.48715"
+         y="309.8963"
+         id="tspan6663">if( elapsed_time &gt; activity_ms )</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#000000;stroke:none;stroke-width:0.5"
+         x="243.48715"
+         y="314.40424"
+         id="tspan6661" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;font-family:Cambria;-inkscape-font-specification:Cambria;text-align:center;text-anchor:middle;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       x="163.00873"
+       y="292.47821"
+       id="text621-0-9-26-0-1-0-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Calibri;-inkscape-font-specification:Calibri;fill:#808080;stroke:none;stroke-width:0.5"
+         x="163.00873"
+         y="292.47821"
+         id="tspan1110-61-9-4-7-6">activity_ts</tspan></text>
+    <rect
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.824257"
+       id="rect288-0-3-4-6"
+       width="175.57578"
+       height="2.3573215"
+       x="31.352837"
+       y="303.32434" />
+    <path
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.263165"
+       d="m 206.65768,300.06933 v 8.8673 l 6.58073,-4.43364 z"
+       id="path565-9-0-7-5" />
+    <circle
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.499999"
+       id="path234-0-6-5-2"
+       cx="29.692682"
+       cy="304.50299"
+       r="2.4315789" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.499999"
+       d="m 29.692683,304.50298 v -7.81579"
+       id="path831-8-45-6-0" />
+    <path
+       style="fill:#000000;stroke:#999999;stroke-width:0.484605;stroke-dasharray:1.93842, 0.484605;stroke-dashoffset:0"
+       d="m 163.20184,301.97127 v -7.34194"
+       id="path831-8-4-1-0-9" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0"
+       x="34.418423"
+       y="123.14488"
+       id="text6944"><tspan
+         sodipodi:role="line"
+         id="tspan6942"
+         style="fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="34.418423"
+         y="123.14488">TIME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0"
+       x="34.437111"
+       y="159.6649"
+       id="text6944-2"><tspan
+         sodipodi:role="line"
+         id="tspan6942-5"
+         style="fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="34.437111"
+         y="159.6649">TIME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0"
+       x="34.529224"
+       y="196.36682"
+       id="text6944-9"><tspan
+         sodipodi:role="line"
+         id="tspan6942-6"
+         style="fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="34.529224"
+         y="196.36682">TIME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0"
+       x="34.467815"
+       y="246.0887"
+       id="text6944-5"><tspan
+         sodipodi:role="line"
+         id="tspan6942-1"
+         style="fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="34.467815"
+         y="246.0887">TIME</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:center;text-anchor:middle;fill:none;stroke:#000000;stroke-width:0.499999;stroke-dasharray:none;stroke-dashoffset:0"
+       x="34.437111"
+       y="305.61743"
+       id="text6944-4"><tspan
+         sodipodi:role="line"
+         id="tspan6942-4"
+         style="fill:#ffffff;stroke:none;stroke-width:0.5"
+         x="34.437111"
+         y="305.61743">TIME</tspan></text>
+  </g>
+</svg>
