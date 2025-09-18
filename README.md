@@ -34,6 +34,10 @@ The Labsheets provide some icons to help reinforce the scientific skills we are 
 
 The below Labsheets make extensive use of some incomplete template code provided for you under the `3Pi_CodeStub` directory above.  Alternatively, visit <a href="https://github.com/paulodowd/SEMTM0042_43/tree/main/3Pi_CodeStub">this link</a>.
 
+# The Coursework Map
+
+You can print your own copy of the coursework map.  The files which is located in the folder `Map` above.  Alternatively, visit <a href="https://github.com/paulodowd/SEMTM0042_43/tree/main/Map">this link</a>.
+
 # Trouble Shooting (FAQ)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/paulodowd/SEMTM0042_43/blob/main/Labsheets/Core/TroubleShooting_FAQ.ipynb) **TroubleShooting/FAQ**:  Help for common problems, like **"my robot won't connect"** 
 
