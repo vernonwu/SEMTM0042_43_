@@ -1,9 +1,9 @@
 /***************************************
- ,        .       .           .     ,-.  
- |        |       |           |        ) 
- |    ,-: |-. ,-. |-. ,-. ,-. |-      /  
- |    | | | | `-. | | |-' |-' |      /   
- `--' `-` `-' `-' ' ' `-' `-' `-'   '--' 
+ ,        .       .           .     ,-.
+ |        |       |           |        )
+ |    ,-: |-. ,-. |-. ,-. ,-. |-      /
+ |    | | | | `-. | | |-' |-' |      /
+ `--' `-` `-' `-' ' ' `-' `-' `-'   '--'
 ****************************************/
 
 // this #ifndef stops this file
@@ -33,7 +33,7 @@ const int sensor_pins[ NUM_SENSORS ] = { A11, A0, A2, A3, A4 };
 
 // Class to operate the linesensors.
 class LineSensors_c {
-  
+
   public:
 
     // Store your readings into this array.
@@ -42,8 +42,8 @@ class LineSensors_c {
     // Where n is a value [0:4]
     float readings[ NUM_SENSORS ];
 
-    // Variables to store calibration constants. 
-    // Make use of these as a part of the exercises 
+    // Variables to store calibration constants.
+    // Make use of these as a part of the exercises
     // in labsheet 2.
     float minimum[ NUM_SENSORS ];
     float maximum[ NUM_SENSORS ];
@@ -51,12 +51,12 @@ class LineSensors_c {
 
     // Variable to store the calculated calibrated
     // (corrected) readings. Needs to be updated via
-    // a function call, which is completed in 
+    // a function call, which is completed in
     // labsheet 2.
     float calibrated[ NUM_SENSORS ];
 
     // Constructor, must exist.
-    LineSensor_c() {
+    LineSensors_c() {
       // leave this empty
     }
 
@@ -77,14 +77,14 @@ class LineSensors_c {
       for( int sensor = 0; sensor < NUM_SENSORS; sensor++ ) {
       //        pinMode( ????, INPUT_PULLUP );
       }
-      
+
     } // End of initialiseForADC()
 
 
 
     // Refer to Labsheet 2: Approach 1
     // Fix areas marked ????
-    // This function is as simple as using a call to 
+    // This function is as simple as using a call to
     // analogRead()
     void readSensorsADC() {
 
@@ -98,7 +98,7 @@ class LineSensors_c {
 
     } // End of readSensorsADC()
 
-    
+
 
     // Use this function to apply the calibration values
     // that were captured in your calibration routine.
@@ -113,17 +113,17 @@ class LineSensors_c {
       for( int sensor = 0; sensor < NUM_SENSORS; sensor++ ) {
       //        calibrated[sensors] = ????;
       }
-      
+
     } // End of calcCalibratedADC()
 
 
 
 
 
-  
+
     // Part of the Advanced Exercises for Labsheet 2
     void initialiseForDigital() {
-      
+
       // Ensure that the IR LEDs are on
       // for line sensing
       pinMode( EMIT_PIN, OUTPUT );
